@@ -24,7 +24,7 @@ A simple weather application that displays real-time weather information using a
 
 ## 🚀 Live Demo
 
-[🔗 View Project Live](#)  
+[🔗 https://kkumar2003.github.io/Weather-check/]  
 
 
 ---
